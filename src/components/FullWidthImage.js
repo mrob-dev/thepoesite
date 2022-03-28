@@ -74,7 +74,7 @@ export default function FullWidthImage(props) {
                     "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
                   backgroundColor: "rgb(255, 68, 0)",
                   color: "white",
-                  fontFamily: "Georgia",
+                  fontFamily: "EB Garamond",
                   lineHeight: "1",
                   opacity: 0.8,
                   padding: "0.25em",
