@@ -28,4 +28,26 @@ And they recited it by heart, the two thousand people, the Pasternak translation
 
 It said: you can’t touch us; You can’t destroy Shakespeare; You can’t destroy the Russian language; You can’t destroy the fact that we know by heart what Pasternak has given us. And they didn’t arrest him. Well, even if the sons of bitches do arrest you — it’s too late. The people already have your treasure with them.”
 
+\*\*\*\**
+
+**William Shakespeare** \
+*Sonnet 30* 
+
+When to the sessions of sweet silent thought\
+I summon up remembrance of things past, \
+I sigh the lack of many a thing I sought, \
+And with old woes new wail my dear time's waste: \
+Then can I drown an eye, unused to flow, \
+For precious friends hid in death's dateless night, \
+And weep afresh love's long since cancelled woe, \
+And moan the expense of many a vanished sight: \
+Then can I grieve at grievances foregone, \
+And heavily from woe to woe tell o'er \
+The sad account of fore-bemoanèd moan, \
+Which I new pay as if not paid before. \
+But if the while I think on thee, dear friend, \
+All losses are restored and sorrows end. 
+
+\*\**
+
 <!--EndFragment-->
