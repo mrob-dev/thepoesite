@@ -17,6 +17,16 @@ tags:
 
 ![Boris Pasternak](/img/pasternak-102__v-gseagaleriexl.jpg "Boris Pasternak")
 
-“It was 1937, the Soviet Writers Congress. It was the worst year. One of the worst years. People disappeared like flies everyday. They told \[Boris] Pasternak, “if you speak they arrest you, and if you don’t speak they arrest you — for ironic insubordination. There are 2,000 people at the event. It is a three day event. Just off stage stands Zjdanov, the Stalinist killer, police killer. It was a three day meeting and every speech was thanks to brother Stalin, thanks to Father Stalin, thanks to the Leninist-Stalinist new model of truth — not a word from Pasternak. On the third day his friends said, “look, they are going to arrest you anyway, maybe you should say something for the rest of us to carry with us.” He was well over six feet, incredibly beautiful, and when Pasternak got up, everyone knew. He got up and I’m told you could hear the silence still Vladivostok. And he gave a number. A number, and two thousand people stood up. Thirty. It was the number of a certain Shakespeare sonnet — of which Pasternak had done a translation which the Russians say, with Pushkin, is one of their greatest texts, so Shakespeare: when I summon up remembrance of things past. A sonnet of Shakespeare on memory. And they recited it by heart, the two thousand people, the Pasternak translation. It said everything. It said: you can’t touch us; You can’t destroy Shakespeare; You can’t destroy the Russian language; You can’t destroy the fact that we know by heart what Pasternak has given us. And they didn’t arrest him. Well, even if the sons of bitches do arrest you — it’s too late. The people already have your treasure with them.”
+“It was 1937, the Soviet Writers Congress. It was the worst year. One of the worst years. People disappeared like flies everyday. They told \[Boris] Pasternak, “if you speak they arrest you, and if you don’t speak they arrest you — for ironic insubordination. There are 2,000 people at the event. It is a three day event. Just off stage stands Zjdanov, the Stalinist killer, police killer. 
+
+It was a three day meeting and every speech was thanks to brother Stalin, thanks to Father Stalin, thanks to the Leninist-Stalinist new model of truth — not a word from Pasternak. On the third day his friends said, “look, they are going to arrest you anyway, maybe you should say something for the rest of us to carry with us.” He was well over six feet, incredibly beautiful, and when Pasternak got up, everyone knew. He got up and I’m told you could hear the silence still Vladivostok. 
+
+And he gave a number. A number, and two thousand people stood up. Thirty. 
+
+It was the number of a certain Shakespeare sonnet — of which Pasternak had done a translation which the Russians say, with Pushkin, is one of their greatest texts, so Shakespeare: when I summon up remembrance of things past. A sonnet of Shakespeare on memory. 
+
+And they recited it by heart, the two thousand people, the Pasternak translation. It said everything. 
+
+It said: you can’t touch us; You can’t destroy Shakespeare; You can’t destroy the Russian language; You can’t destroy the fact that we know by heart what Pasternak has given us. And they didn’t arrest him. Well, even if the sons of bitches do arrest you — it’s too late. The people already have your treasure with them.”
 
 <!--EndFragment-->
