@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: The POE 
+title: The Politics Of Expression
 image: /img/home-jumbotron.jpg
-heading: The POE
-subheading: The Politics Of Expression
+heading: The Politics Of Expression
+subheading: The POE
 mainpitch:
   title: A zeitgeist guide
   description: >

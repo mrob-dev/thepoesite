@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
+import "../components/all.sass";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
@@ -24,10 +25,7 @@ export const IndexPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  
-                    
-                  
-                  <div className="column is-12">
+                    <div className="column is-12">
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">

@@ -7,7 +7,6 @@ export default function FullWidthImage(props) {
     height = 400,
     img,
     title,
-    subheading,
     imgPosition = "top left",
   } = props;
 
@@ -55,7 +54,7 @@ export default function FullWidthImage(props) {
             formats={["auto", "webp", "avif"]}
           />
         )}
-        {(title || subheading) && (
+        {(title) && (
           <div
             style={{
               // By using the same grid area for both, they are stacked on top of each other
@@ -75,28 +74,14 @@ export default function FullWidthImage(props) {
                     "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
                   backgroundColor: "rgb(255, 68, 0)",
                   color: "white",
+                  fontFamily: "Georgia",
                   lineHeight: "1",
+                  opacity: 0.8,
                   padding: "0.25em",
                 }}
               >
                 {title}
               </h1>
-            )}
-            {subheading && (
-              <h3
-                className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-                style={{
-                  boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
-                  color: "white",
-                  lineHeight: "1",
-                  padding: "0.25rem",
-                  marginTop: "0.5rem",
-                }}
-              >
-                {subheading}
-              </h3>
             )}
           </div>
         )}
@@ -109,5 +94,4 @@ FullWidthImage.propTypes = {
   img: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   height: PropTypes.number,
-  subheading: PropTypes.string,
 };
