@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: A Pasternak episode recalled by George Steiner
 date: 2022-03-28T09:17:49.353Z
-description: A message for Russian friends, and friends who know without them
-  this whole thing might end in a bang rather than a whimper.
+description: A message for Russian friends...
 featuredpost: true
 featuredimage: /img/pasternak-102__v-gseagaleriexl.jpg
 tags:
